@@ -1,0 +1,30 @@
+html {
+  background-color: #1E64CD;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  max-width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  transition:.2s all ease-in-out;
+}
+
+a:hover {
+  color: #CED3DC;
+}
+
+img {
+  max-height: 50%
+}
